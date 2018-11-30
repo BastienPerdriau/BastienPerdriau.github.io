@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Bastien, an Office and Azure consultant from Nantes (France).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I work at [Gest'Innov](https://solution-de-gestion.fr/), a french ISV in the Microsoft ecosystem, with Dyanmics 365, Office 365 and Azure.
 
+I'm very enthusiast about subjects like industrializing development, build and deployment processes to focus on real business values.
+To achieve all that, I'm using the most of Azure DevOps and Azure features to involve business teams into the value of their products.
 
-[jekyll-organization]: https://github.com/jekyll
+I blog here to share thoughts, feedbacks, discoveries and news about the ecosystem I work with every day.
+
+Fell free to talk with me on [Twitter](https://www.twitter.com/BastienPerdriau) and on [GitHub](https://www.github.com/BastienPerdriau).
