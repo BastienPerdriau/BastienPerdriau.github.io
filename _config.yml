@@ -17,8 +17,9 @@ title: Bastien Perdriau
 email: bastien.perdriau@live.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Office 365 and Azure consultant at Gest'Innov, from Nantes, France.
+
   Very enthusiast about CI/CD and ALM subjects, espacially in Microsoft ecosystem.
-  Working with C# and PowerShell, sometimes with Typescript, and using Azure DevOps.
+  
   Sharing thoughts, feedbacks, discoveries and news about all that.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
