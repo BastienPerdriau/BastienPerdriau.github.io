@@ -27,7 +27,7 @@ github_username:  BastienPerdriau
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
