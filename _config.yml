@@ -26,6 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BastienPerdriau
 github_username:  BastienPerdriau
 repository: BastienPerdriau/bastienperdriau.github.io
+permalink: /:year/:month/:day/:title:output_ext
 
 # Build settings
 markdown: kramdown
